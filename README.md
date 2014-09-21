@@ -7,16 +7,16 @@ This repo contains the files that were written to complete the course project fo
 
 Original Data
 -------------
-"x_test.txt": Contains the measurements of all features for the test set.
-"y_test.txt": Contains the activity for the test set.
-"subject_test.txt": Contains the subjects for the test set.
+- "x_test.txt": Contains the measurements of all features for the test set.
+- "y_test.txt": Contains the activity for the test set.
+- "subject_test.txt": Contains the subjects for the test set.
 
-"x_training": Contains the measurements of all features for the training set.
-"y_training.txt": Contains the activity for the training set.
-"subject_training.txt": Contains the subject for the training set.
+- "x_training": Contains the measurements of all features for the training set.
+- "y_training.txt": Contains the activity for the training set.
+- "subject_training.txt": Contains the subject for the training set.
 
-"activity_labels.txt": Contains the labes for the activity id.
-"features.txt": Contains the labels of the features
+- "activity_labels.txt": Contains the labes for the activity id.
+- "features.txt": Contains the labels of the features
 
 run_analysis.R
 --------------
